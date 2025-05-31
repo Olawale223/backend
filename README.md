@@ -1,6 +1,6 @@
 ---
 
-# Backend API for The hive website {}
+# Backend API for The hive website 
 
 This is the backend for a  platform for tech services employment. It provides a RESTful API for  user authentication, and administrative operations.
 
